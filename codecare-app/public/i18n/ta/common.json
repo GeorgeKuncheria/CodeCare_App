@@ -1,0 +1,26 @@
+{
+    "header.button.label.donate": "தானம் செய்",
+    "header.link.label.signin": "உள்நுழைக",
+    "header.link.label.signup": "பதிவு செய்யவும்",
+    "header.link.label.home":"வீடு",
+    "header.link.label.events":"நிகழ்வுகள்",
+    "header.link.label.appointment":"நியமனம்",
+    "header.link.label.user":"பயனர்கள்",
+    "header.link.label.profiles": "சுயவிவரங்கள்",
+    "header.link.label.title":"கோட்கேர்",
+    "homepage.link.label.homepageTitle":"ஆரோக்கியத்தை மேம்படுத்துதல்: உங்கள் சமூகங்களின் இரக்க பராமரிப்பு போர்டல்",
+    "homepage.link.label.homepageDescription":"உங்கள் நம்பகமான ஹெல்த்கேர் துணைவரான CodeCare க்கு வரவேற்கிறோம். அனைவருக்கும் அணுகக்கூடிய மற்றும் இரக்கமுள்ள சுகாதாரத் தீர்வுகளை வழங்க நாங்கள் கடமைப்பட்டுள்ளோம். எங்கள் தளம் நோயாளிகளை அர்ப்பணிப்புள்ள நிபுணர்களுடன் இணைக்கிறது, உங்கள் தேவைகளுக்கு ஏற்ப பல்வேறு சேவைகளை வழங்குகிறது. ஒன்றாக, ஒரு நேரத்தில் ஒரு நபர் ஆரோக்கியமான சமூகத்தை உருவாக்க நாங்கள் முயற்சி செய்கிறோம்.",
+    "homepage.link.label.homepageFeaturedPost":"எதிர்வரும் நிகழ்வுகள்",
+    "homepage.link.label.homepageFeaturedHost":"தொகுத்து வழங்கினார்",
+    "homepage.link.label.homepageFeaturedDate": "தேதி",
+    "homepage.link.label.homepageFeaturedLocation":"இடம்",
+    "homepage.link.label.homepageFeaturedMoreDetails":"மேலும்",
+    "homepage.link.label.homepageAppointmentTitle":"ஒரு சந்திப்பை பதிவு செய்யுங்கள்",
+    "homepage.link.label.homepageAppointmentDetails":"இன்றே உங்கள் ஆலோசனை சந்திப்பை எந்த கட்டணமும் இல்லாமல் பதிவு செய்யுங்கள். அனைவருக்கும், குறிப்பாக தேவைப்படுபவர்களுக்கு அணுகக்கூடிய சுகாதார சேவையை வழங்க நாங்கள் கடமைப்பட்டுள்ளோம்.",
+    "homepage.link.label.homepageDonationsTitle":"நன்கொடைகள் செய்யுங்கள்",
+    "homepage.link.label.homepageDonationDetails":"உங்கள் பெருந்தன்மை வாழ்க்கையை மாற்றும். இன்றே நன்கொடை அளிப்பதன் மூலம் ஏழைகளுக்கு ஆதரவளித்து, எங்கள் கோட்கேர் சமூகத்தில் மாற்றத்தை ஏற்படுத்துங்கள்.",
+    "homepage.link.label.homepageFooterDescription":"அணுகக்கூடிய சுகாதார தீர்வுகள் மூலம் சமூகங்களை மேம்படுத்துதல்.",
+    "homepage.link.label.homepageFooterSubscribe":"பதிவு",
+    "homepage.link.label.homepageFooterNewsletter":"செய்திமடலுக்கு சந்தாதராகவும்"
+
+}

@@ -1,0 +1,8 @@
+{
+  "filter.search": "தேடு",
+  "filter.status": "நிலை",
+  "filter.status.all": "அனைத்து",
+  "filter.status.upcoming": "வரவிருக்கிறது",
+  "filter.status.past": "கடந்த",
+  "filter.status.cancelled": "ரத்து"
+}

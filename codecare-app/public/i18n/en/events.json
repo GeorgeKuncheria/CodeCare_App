@@ -1,0 +1,8 @@
+{
+  "filter.search": "Search",
+  "filter.status": "Event Status",
+  "filter.status.all": "All",
+  "filter.status.upcoming": "Upcoming",
+  "filter.status.past": "Past",
+  "filter.status.cancelled": "Cancelled"
+}

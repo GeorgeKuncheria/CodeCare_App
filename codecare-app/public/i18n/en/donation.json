@@ -1,0 +1,10 @@
+{
+    "donation.head": "Donation",
+    "donation.typo.name":  "Name",
+    "donation.typo.email": "Email",
+    "donation.textfield.amount": "Amount",
+    "donation.button.donate": "Donate",
+    "donation.typo.caption": "The amount is used for medical campaigns and research.",
+    "donation.typo.welcome": "Welcome, Caring Contributor"
+
+}

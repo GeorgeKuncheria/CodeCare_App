@@ -1,0 +1,7 @@
+{
+    "noteform.textfield.diagnosis": "Diagnosis",
+    "noteform.textfield.treatment": "Treatment",
+    "noteform.textfield.dateoftreatment": "Date of Treatment",
+    "noteform.button.save": "Save",
+    "noteform.button.cancel": "Cancel"
+}

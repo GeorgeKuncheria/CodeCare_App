@@ -1,0 +1,27 @@
+{
+    "header.button.label.donate": "Donate",
+    "header.link.label.signin": "SIGN IN",
+    "header.link.label.signup": "SIGN UP",
+    "header.link.label.home":"Home",
+    "header.link.label.events":"Events",
+    "header.link.label.appointment":"Appointment",
+    "header.link.label.user":"Users",
+    "header.link.label.profiles": "Profiles",
+    "header.link.label.title":"CodeCare",
+    "homepage.link.label.homepageTitle":"Empowering Health: Your Communitys Compassionate Care Portal",
+    "homepage.link.label.homepageDescription":"Welcome to CodeCare, your trusted healthcare companion. We are committed to providing accessible and compassionate healthcare solutions for everyone. Our platform connects patients with dedicated professionals, offering a range of services tailored to your needs. Together, we strive to create a healthier community, one person at a time.",
+    "homepage.link.label.homepageFeaturedPost":"Upcoming Events",
+    "homepage.link.label.homepageFeaturedHost":"Hosted By",
+    "homepage.link.label.homepageFeaturedDate": "Date",
+    "homepage.link.label.homepageFeaturedLocation":"Location",
+    "homepage.link.label.homepageFeaturedMoreDetails":"Visit",
+    "homepage.link.label.homepageAppointmentTitle":"Book An Appointment",
+    "homepage.link.label.homepageAppointmentDetails":"Book your consultation appointment today at no cost. We're committed to providing accessible healthcare for everyone, especially those in need.",
+    "homepage.link.label.homepageDonationsTitle":"Make Donations",
+    "homepage.link.label.homepageDonationDetails":"Your generosity can change lives. Donate today to support the needy and make a difference in our CodeCare community.",
+    "homepage.link.label.homepageFooterDescription":"Empowering communities through accessible healthcare solutions.",
+    "homepage.link.label.homepageFooterSubscribe":"Subscribe",
+    "homepage.link.label.homepageFooterNewsletter":"Subscribe to Newsletter"
+
+    
+}
